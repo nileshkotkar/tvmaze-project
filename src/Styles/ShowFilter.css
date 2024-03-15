@@ -1,0 +1,9 @@
+select {
+    width: 150px;
+    padding: 10px;
+}
+
+label {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

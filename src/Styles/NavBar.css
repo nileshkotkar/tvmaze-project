@@ -1,0 +1,17 @@
+.navContainer {
+    width: 100%;
+    background-color: #3f3f3f;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#logo {
+    max-height: 50px;
+}
+
+img {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}

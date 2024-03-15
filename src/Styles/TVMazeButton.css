@@ -1,0 +1,12 @@
+.button {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #3c948b;
+    color: white;
+    border: #3c948b solid 1px;
+    border-radius: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

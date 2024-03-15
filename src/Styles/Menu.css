@@ -1,0 +1,14 @@
+.menuContainer {
+    background-color: #3c948b;
+}
+
+#colTextMenu {
+    list-style: none;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+#colTextMenu:hover {
+    background-color: #3f3f3f;
+}

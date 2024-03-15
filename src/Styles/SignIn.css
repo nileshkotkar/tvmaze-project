@@ -1,0 +1,11 @@
+.colText {
+    color: white;
+    cursor: pointer;
+    margin-left: -10px;
+    margin-right: 4%;
+    text-decoration: none;
+}
+
+.colText:hover {
+    color: #3c948b;
+}

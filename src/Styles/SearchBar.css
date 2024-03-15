@@ -1,0 +1,23 @@
+.searchInput {
+    border-radius: 2rem 0 0 2rem;
+    height: 2.2rem;
+    width: 100%;
+    padding-left: 10px;
+}
+
+.searchButton {
+    padding: 10px;
+    border-radius: 0 2rem 2rem 0;
+    border-bottom: none;
+    height: 2.2rem;
+    background-color: #3c948b;
+    color: #fff;
+    border: none;
+    position: relative;
+    background-image: url('../Images/searchbar.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
